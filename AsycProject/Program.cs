@@ -11,6 +11,7 @@ namespace AsycProject
         {
 
             DownloadFileFromServer();
+
             // alternative method to call the thread
             // Technique no 2
             //Task.Run(() =>
